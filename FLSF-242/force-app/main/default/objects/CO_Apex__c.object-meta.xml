@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Annual_Renewal_Date__c</fullName>
+        <description>Date of Annual Renewal</description>
+        <externalId>false</externalId>
+        <label>Annual Renewal Date</label>
+        <required>true</required>
+        <trackHistory>false</trackHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Renewal_Notice_Trigger_Limit__c</fullName>
+        <description>Limit for Renewal Notice Trigger</description>
+        <externalId>false</externalId>
+        <label>Renewal Notice Trigger Limit</label>
+        <required>true</required>
+        <trackHistory>false</trackHistory>
+        <type>Number</type>
+    </fields>
+    <fields>
+        <fullName>Renewal_Notice_Trigger_Frequency__c</fullName>
+        <description>Frequency of Renewal Notice Trigger</description>
+        <externalId>false</externalId>
+        <label>Renewal Notice Trigger Frequency</label>
+        <required>true</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+    </fields>
+    <fields>
+        <fullName>Target_Date_Example__c</fullName>
+        <description>Target Date Example</description>
+        <externalId>false</externalId>
+        <label>Target Date Example</label>
+        <required>true</required>
+        <trackHistory>false</trackHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Renewal_Notice_Trigger_Date__c</fullName>
+        <description>Date for Renewal Notice Trigger</description>
+        <externalId>false</externalId>
+        <label>Renewal Notice Trigger Date</label>
+        <required>true</required>
+        <trackHistory>false</trackHistory>
+        <type>Date</type>
+    </fields>
+</CustomObject>

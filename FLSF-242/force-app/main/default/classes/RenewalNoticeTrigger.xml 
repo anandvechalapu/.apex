@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>45.0</apiVersion>
+    <description>Apex class to trigger a renewal notice 90 days before the Annual Renewal Date</description>
+    <status>Active</status>
+</ApexClass>
